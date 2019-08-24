@@ -31,7 +31,7 @@ dependencies {
     testCompile 'org.jetbrains.spek:spek-data-driven-extension:1.1.5'
     testRuntime 'org.jetbrains.spek:spek-junit-platform-engine:1.1.5'
     testCompile group: 'org.junit.platform', name: 'junit-platform-launcher', version: '1.0.0'
-    testCompile 'org.amshove.kluent:kluent:1.30'
+    testCompile 'org.amshove.kluent:kluent:1.49'
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
 
 }
